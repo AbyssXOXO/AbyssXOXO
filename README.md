@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 
+### I'm Manish, a student currently learning new things everyday from India. I like to build new things.
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
