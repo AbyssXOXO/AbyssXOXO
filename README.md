@@ -20,7 +20,7 @@ Currently:
 ---
 
 ## Placement Portal Progress
-![Progress](https://progress-bar.dev/05/?scale=100&title=Placement%20Portal)
+![Progress](https://progress-bar.dev/40/?scale=100&title=Placement%20Portal)
 
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
