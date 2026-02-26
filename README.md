@@ -25,7 +25,7 @@ Currently:
 
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge">
   
-  <iframe src="https://giphy.com/embed/BqaHCDoondzMzel0w1" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BqaHCDoondzMzel0w1">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/BqaHCDoondzMzel0w1" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 </div>
 
