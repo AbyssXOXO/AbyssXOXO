@@ -19,9 +19,8 @@ Currently:
 
 ---
 
-##  What I'm Learning Now
-- Backend architecture
-- Database design
+## Placement Portal Progress
+![Progress](https://progress-bar.dev/05/?scale=100&title=Placement%20Portal)
 
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
