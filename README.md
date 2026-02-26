@@ -25,6 +25,8 @@ Currently:
 
 ![Completion](https://img.shields.io/badge/Completion-10%25-yellow?style=for-the-badge)
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
