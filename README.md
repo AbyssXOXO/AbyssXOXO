@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi, I'm Manish 
-  <img src="https://media.tenor.com/tgs32ozGlrkAAAAi/uma-musume-anime.gif">
+  <img src="https://media.tenor.com/tgs32ozGlrkAAAAi/uma-musume-anime.gif" width="30px">
 </h1>
 
 I build things.
