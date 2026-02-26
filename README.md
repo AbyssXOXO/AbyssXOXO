@@ -25,6 +25,12 @@ Currently:
 
 ![Completion](https://img.shields.io/badge/Completion-10%25-yellow?style=for-the-badge)
 
+---
+
+### Facts about me
+- I like Animations and arts
+- I like to play Single player story games
+
 
 
 <!--
