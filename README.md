@@ -3,27 +3,23 @@
 I build things.
 
 Currently:
-- 🎓 Studying Data Science at IIT Madras (BS)
-- 📚 Pursuing BCA
-- 🤖 Exploring AI systems & local LLM deployment
-- 🔧 Building full-stack projects from scratch
-
-I believe in learning by building.
+-  Studying Data Science at IIT Madras (BS)
+-  Pursuing BCA
+-  Exploring AI systems & local LLM deployment
+-  Building full-stack projects from scratch
 
 ---
 
-## 🚀 Projects I'm Focused On
+##  Projects I'm Focused On
 - Placement Portal Application
-- Telegram AI Userbot
 - Local Multi-Agent AI System
 
 ---
 
-## 🧠 What I'm Learning Now
+##  What I'm Learning Now
 - Backend architecture
 - Database design
-- Clean code practices
-- Git collaboration workflows
+
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
