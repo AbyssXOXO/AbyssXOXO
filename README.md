@@ -22,7 +22,7 @@ Currently:
 ## Placement Portal Progress
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-<img src="https://media1.tenor.com/m/vTABuH5VNcYAAAAC/anime-starting-chainsaw.gif" width="80px" style="margin-left:20px">
+<img src="https://media1.tenor.com/m/vTABuH5VNcYAAAAC/anime-starting-chainsaw.gif" width="80px" style="margin-left:20px;">
 
 ![Completion](https://img.shields.io/badge/Completion-10%25-yellow?style=for-the-badge)
 
