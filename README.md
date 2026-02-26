@@ -23,7 +23,7 @@ Currently:
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 
-![Completion](https://img.shields.io/badge/Completion-40%25-yellow?style=for-the-badge)
+![Completion](https://img.shields.io/badge/Completion-10%25-yellow?style=for-the-badge)
 
 <!--
 **AbyssXOXO/AbyssXOXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
