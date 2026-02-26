@@ -25,7 +25,7 @@ Currently:
 
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge">
   
-  <img src="https://media1.tenor.com/m/vTABuH5VNcYAAAAC/anime-starting-chainsaw.gif" width="65px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9mZmEwNmQ5bGtueWt3ZDdiZmN2b2M1cXZ0M2IwbHlzNGJ3Ym10eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BqaHCDoondzMzel0w1/giphy.gif" width="80px">
 
 </div>
 
