@@ -25,7 +25,7 @@ Currently:
 
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge">
   
-  <img src="assets/azusa.gif" width="80px">
+  <img src="assets/Azusa.gif" width="80px">
 
 </div>
 
