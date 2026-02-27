@@ -6,7 +6,7 @@
 I build things.
 
 Currently:
--  Studying Data Science at IIT Madras (BS)
+-  Studying Data Science 
 -  Pursuing BCA
 -  Exploring AI systems & local LLM deployment
 -  Building full-stack projects from scratch
